@@ -11,3 +11,6 @@ It contains only numerical input variables which are the result of a PCA transfo
 ## Task
 Identify fraudulent credit card transactions.
 
+## Approach
+Used CNN model to identify fraudulent transactions. Implemented Adam optimizer with a learning rate of 0.0001 and used :binary cross entropy" loss function.
+Achieved 95% accuracy on the final model.
